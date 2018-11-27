@@ -1,6 +1,9 @@
 # EFlowLayout
 
 超简单流式布局
+
+由于文件只有一个java。我就不上传jcenter。有需要的直接拷贝吧
+
 效果图：
 
 <img src="./img.jpg" width=320px/>
