@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="EFlowLayout">
+        <attr name="item_left_margin" format="dimension" />
+        <attr name="item_right_margin" format="dimension" />
+        <attr name="item_top_margin" format="dimension" />
+        <attr name="item_bottom_margin" format="dimension" />
+    </declare-styleable>
+</resources>
